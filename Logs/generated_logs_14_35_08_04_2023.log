@@ -1,0 +1,88 @@
+04/08/2023 02:35:13 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:17 PM - BasePage - INFO: The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+04/08/2023 02:35:17 PM - BasePage - INFO: The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+04/08/2023 02:35:17 PM - BasePage - INFO: The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+04/08/2023 02:35:18 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+04/08/2023 02:35:18 PM - BasePage - INFO: The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+04/08/2023 02:35:23 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a']
+04/08/2023 02:35:23 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='firstName'] was found
+04/08/2023 02:35:23 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='firstName'] and value entered is: dftggzw
+04/08/2023 02:35:23 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='lastName'] was found
+04/08/2023 02:35:24 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='lastName'] and value entered is: wpnjz
+04/08/2023 02:35:24 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='email'] was found
+04/08/2023 02:35:24 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='email'] and value entered is: b8b4c1b2dc2af975@gmail.com
+04/08/2023 02:35:24 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='password'] was found
+04/08/2023 02:35:24 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='password'] and value entered is: 07G@em1017
+04/08/2023 02:35:24 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input'] was found
+04/08/2023 02:35:24 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input']
+04/08/2023 02:35:24 PM - BasePage - INFO: The element with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] was found
+04/08/2023 02:35:24 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] is checked
+04/08/2023 02:35:24 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[normalize-space()='SMS'] was found
+04/08/2023 02:35:24 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //label[normalize-space()='SMS'] is checked
+04/08/2023 02:35:24 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] was found
+04/08/2023 02:35:25 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] is checked
+04/08/2023 02:35:25 PM - BasePage - INFO: The element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link'] was found
+04/08/2023 02:35:27 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link']
+04/08/2023 02:35:30 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:30 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:35 PM - BasePage - INFO: The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+04/08/2023 02:35:35 PM - BasePage - INFO: The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+04/08/2023 02:35:35 PM - BasePage - INFO: The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+04/08/2023 02:35:35 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+04/08/2023 02:35:35 PM - BasePage - INFO: The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+04/08/2023 02:35:37 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a']
+04/08/2023 02:35:37 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='firstName'] was found
+04/08/2023 02:35:38 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='firstName'] and value entered is: dashree
+04/08/2023 02:35:38 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='lastName'] was found
+04/08/2023 02:35:38 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='lastName'] and value entered is: anil
+04/08/2023 02:35:38 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='email'] was found
+04/08/2023 02:35:39 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='email'] and value entered is: abcdzyx@gmail.com
+04/08/2023 02:35:39 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='password'] was found
+04/08/2023 02:35:39 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='password'] and value entered is: 07G@em1017
+04/08/2023 02:35:39 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input'] was found
+04/08/2023 02:35:39 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input']
+04/08/2023 02:35:39 PM - BasePage - INFO: The element with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] was found
+04/08/2023 02:35:39 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] is checked
+04/08/2023 02:35:39 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[normalize-space()='SMS'] was found
+04/08/2023 02:35:39 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //label[normalize-space()='SMS'] is checked
+04/08/2023 02:35:39 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] was found
+04/08/2023 02:35:39 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] is checked
+04/08/2023 02:35:39 PM - BasePage - INFO: The element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link'] was found
+04/08/2023 02:35:41 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link']
+04/08/2023 02:35:43 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:43 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:43 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:49 PM - BasePage - INFO: The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+04/08/2023 02:35:49 PM - BasePage - INFO: The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+04/08/2023 02:35:49 PM - BasePage - INFO: The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+04/08/2023 02:35:49 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+04/08/2023 02:35:49 PM - BasePage - INFO: The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+04/08/2023 02:35:52 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a']
+04/08/2023 02:35:52 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='firstName'] was found
+04/08/2023 02:35:53 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='firstName'] and value entered is: kumar
+04/08/2023 02:35:53 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='lastName'] was found
+04/08/2023 02:35:53 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='lastName'] and value entered is: dashree
+04/08/2023 02:35:53 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='email'] was found
+04/08/2023 02:35:54 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='email'] and value entered is: zyxdcba@gmail.com
+04/08/2023 02:35:54 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='password'] was found
+04/08/2023 02:35:54 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='password'] and value entered is: 07G@em1017
+04/08/2023 02:35:54 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input'] was found
+04/08/2023 02:35:54 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input']
+04/08/2023 02:35:54 PM - BasePage - INFO: The element with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] was found
+04/08/2023 02:35:54 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] is checked
+04/08/2023 02:35:54 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[normalize-space()='SMS'] was found
+04/08/2023 02:35:54 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //label[normalize-space()='SMS'] is checked
+04/08/2023 02:35:54 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] was found
+04/08/2023 02:35:54 PM - BasePage - INFO: The checkbox with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] is checked
+04/08/2023 02:35:54 PM - BasePage - INFO: The element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link'] was found
+04/08/2023 02:35:55 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link']
+04/08/2023 02:35:58 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:58 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:58 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:35:58 PM - setup - INFO: Initializing Chrome browser
+04/08/2023 02:36:01 PM - BasePage - INFO: The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+04/08/2023 02:36:01 PM - BasePage - INFO: The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+04/08/2023 02:36:01 PM - BasePage - INFO: The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+04/08/2023 02:36:01 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+04/08/2023 02:36:01 PM - BasePage - INFO: The element with locator type: xpath and locator: //a[@class='Desktop-module--link--49cdf'][normalize-space()='Vitamins & Supplements'] was found
+04/08/2023 02:36:02 PM - BasePage - INFO: Performing mouse hover action on element with locator type: xpath and locator: //a[@class='Desktop-module--link--49cdf'][normalize-space()='Vitamins & Supplements']

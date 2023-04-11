@@ -1,0 +1,7 @@
+[32mINFO    [0m setup:conftest.py:32 Initializing Chrome browser
+[32mINFO    [0m BasePage:base_page.py:70 The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+[32mINFO    [0m BasePage:base_page.py:417 The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+[32mINFO    [0m BasePage:base_page.py:83 Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+[31mCRITICAL[0m BasePage:base_page.py:88 <traceback object at 0x0000029107E70F00>

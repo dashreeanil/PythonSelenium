@@ -1,0 +1,33 @@
+04/07/2023 03:48:13 PM - setup - INFO: Initializing Chrome browser
+04/07/2023 03:48:16 PM - BasePage - INFO: The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+04/07/2023 03:48:16 PM - BasePage - INFO: The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+04/07/2023 03:48:16 PM - BasePage - INFO: The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+04/07/2023 03:48:16 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+04/07/2023 03:48:16 PM - BasePage - INFO: The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+04/07/2023 03:48:19 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a']
+04/07/2023 03:48:20 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='firstName'] was found
+04/07/2023 03:48:20 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='firstName'] and value entered is: idoropq
+04/07/2023 03:48:20 PM - BasePage - ERROR: WebDriver.find_element() takes from 1 to 3 positional arguments but 4 were given
+04/07/2023 03:48:20 PM - BasePage - CRITICAL: <traceback object at 0x000001FD4C2DC700>
+04/07/2023 03:48:20 PM - BasePage - ERROR: Unable to locate element in the DOM
+04/07/2023 03:48:20 PM - BasePage - CRITICAL: <traceback object at 0x000001FD4C2BBF00>
+04/07/2023 03:48:55 PM - setup - INFO: Initializing Chrome browser
+04/07/2023 03:48:58 PM - BasePage - INFO: The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+04/07/2023 03:48:58 PM - BasePage - INFO: The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+04/07/2023 03:48:58 PM - BasePage - INFO: The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+04/07/2023 03:48:58 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+04/07/2023 03:48:58 PM - BasePage - INFO: The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+04/07/2023 03:49:00 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a']
+04/07/2023 03:49:00 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='firstName'] was found
+04/07/2023 03:49:01 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='firstName'] and value entered is: lwdhvyy
+04/07/2023 03:49:01 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='lastName'] was found
+04/07/2023 03:49:01 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='lastName'] and value entered is: qnvrs
+04/07/2023 03:49:01 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='email'] was found
+04/07/2023 03:49:01 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='email'] and value entered is: e6e86f733c604e6d@gmail.com
+04/07/2023 03:49:01 PM - BasePage - INFO: The element with locator type: xpath and locator: //input[@id='password'] was found
+04/07/2023 03:49:02 PM - BasePage - INFO: Performing send keys action on element with locator type: xpath and locator: //input[@id='password'] and value entered is: pUA</I2)o#
+04/07/2023 03:49:02 PM - BasePage - INFO: The element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input'] was found
+04/07/2023 03:49:02 PM - BasePage - INFO: Performing click action on element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input']
+04/07/2023 03:49:02 PM - BasePage - INFO: The element with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] was found
+04/07/2023 03:49:02 PM - BasePage - ERROR: selenium.webdriver.remote.webdriver.WebDriver.find_element() argument after * must be an iterable, not WebElement
+04/07/2023 03:49:02 PM - BasePage - CRITICAL: <traceback object at 0x000001DD403CFD00>

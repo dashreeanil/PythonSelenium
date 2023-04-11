@@ -1,0 +1,25 @@
+[32mINFO    [0m setup:conftest.py:32 Initializing Chrome browser
+[32mINFO    [0m BasePage:base_page.py:70 The elements with locator type: xpath and locator: //div/button[.='Manage cookies'] was found
+[32mINFO    [0m BasePage:base_page.py:417 The element with locator type: xpath and locator: //div/button[.='Manage cookies'] exits
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //button[.='Yes I accept'] was found
+[32mINFO    [0m BasePage:base_page.py:83 Performing click action on element with locator type: xpath and locator: //button[.='Yes I accept']
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a'] was found
+[32mINFO    [0m BasePage:base_page.py:83 Performing click action on element with locator type: xpath and locator: //div[@class='Desktop-module--menu--0bfa6']//div//div[@id='data-cs-mask-rewards']//a[@class='MenuItem-module--button--fa69a']
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //input[@id='firstName'] was found
+[32mINFO    [0m BasePage:base_page.py:96 Performing send keys action on element with locator type: xpath and locator: //input[@id='firstName'] and value entered is: kumar
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //input[@id='lastName'] was found
+[32mINFO    [0m BasePage:base_page.py:96 Performing send keys action on element with locator type: xpath and locator: //input[@id='lastName'] and value entered is: dashree
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //input[@id='email'] was found
+[32mINFO    [0m BasePage:base_page.py:96 Performing send keys action on element with locator type: xpath and locator: //input[@id='email'] and value entered is: zyxdcba@gmail.com
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //input[@id='password'] was found
+[32mINFO    [0m BasePage:base_page.py:96 Performing send keys action on element with locator type: xpath and locator: //input[@id='password'] and value entered is: 07G@em1017
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input'] was found
+[32mINFO    [0m BasePage:base_page.py:83 Performing click action on element with locator type: xpath and locator: //label[@for='optOut']//span[@class='jsx-b76e2c7fc84de7d9 radio-input']
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] was found
+[32mINFO    [0m BasePage:base_page.py:305 The checkbox with locator type: xpath and locator: //fieldset[@class='MarketingPreferences_checkboxGroupWrapper__q1ugb']//label[1] is checked
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //label[normalize-space()='SMS'] was found
+[32mINFO    [0m BasePage:base_page.py:305 The checkbox with locator type: xpath and locator: //label[normalize-space()='SMS'] is checked
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] was found
+[32mINFO    [0m BasePage:base_page.py:305 The checkbox with locator type: xpath and locator: //label[@class='TermsAndConditions_label__dbZUA'] is checked
+[32mINFO    [0m BasePage:base_page.py:59 The element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link'] was found
+[32mINFO    [0m BasePage:base_page.py:83 Performing click action on element with locator type: xpath and locator: //a[@class='jsx-507bb6a5283c3c9e ghost block signup_link']
